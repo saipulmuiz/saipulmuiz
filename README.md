@@ -36,26 +36,23 @@ Hi, I'm [Saipul Muiz](https://saipulmuiz.com/), a Backend Developer 🚀 from In
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 **Still Learn:**  
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 
-🚧 **My Todoist Stats:**
-<!-- TODO-IST:START -->
-<!-- 🏆  5,825 Karma Points           
-🌸  Completed 9 tasks today           
-🗓  Completed 9 tasks this week           
-✅  Completed 403 tasks so far           
-⏳  Longest streak is 10 days -->
-<!-- TODO-IST:END -->
-
-
 <details>
-<summary>📈 My GitHub Stats</summary>
+<summary>🚧 Show Details</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=saipulmuiz&show_icons=true&theme=gotham" alt="saipulmuiz" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saipulmuiz&theme=dracula" alt="Saipul Muiz Top Languages Programming" />
 
 </details>
+
+
+<summary>📈 My GitHub Stats</summary>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=saipulmuiz&show_icons=true&theme=dracula" alt="saipulmuiz" />
+
 
 
