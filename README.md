@@ -65,7 +65,7 @@ Hi, I'm [Saipul Muiz](https://saipulmuiz.com/), a Backend Developer 🚀 from In
 
 📈 **My GitHub Stats:**
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=saipulmuiz&show_icons=true&theme=dracula" alt="saipulmuiz" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=saipulmuiz&show_icons=true&count_private=true&theme=algolia&include_all_commits=true" alt="saipulmuiz" />
 
 
 
