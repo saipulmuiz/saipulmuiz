@@ -1,18 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://twitter.com/saipulmuiz">
-  <img align="left" alt="Saipul Muiz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/saipulmuiz/">
-  <img align="left" alt="Saipul Muiz LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://t.me/saipulmuiz">
-  <img align="left" alt="Saipul Muiz Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/saipulmuiz/">
-  <img align="left" alt="Saipul Muiz Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-
+![Linkedin Badge][linkedin-shield]][linkedin-url]
 <img src="https://komarev.com/ghpvc/?username=saipulmuiz" alt="saipulmuiz" />
 
 <br />
@@ -66,6 +54,9 @@ Hi, I'm [Saipul Muiz](https://saipulmuiz.com/), a Backend Developer 🚀 from In
 📈 **My GitHub Stats:**
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=saipulmuiz&show_icons=true&count_private=true&theme=algolia&include_all_commits=true" alt="saipulmuiz" />
+  
+[linkedin-shield]: https://img.shields.io/badge/-saipulmuiz-blue?style=flat-square&logo=Linkedin&logoColor=white
+[linkedin-url]: https://www.linkedin.com/in/saipulmuiz/
 
 
 
