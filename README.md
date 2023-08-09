@@ -5,7 +5,7 @@
 
 <br />
 
-Hi, I'm [Saipul Muiz](https://saipulmuiz.com/), a Backend Developer 🚀 from Indonesia, currently, I'm a Founder  🙍🏽‍♂️ [Wahbanget.com](https://wahbanget.com/). Beside's programming, I enjoy sporting and movie watching.
+Hi, I'm [Saipul Muiz](https://saipulmuiz.com/), a Backend Developer 🚀 from Indonesia, currently, I'm a Founder and freelance software engineering at  🙍🏽‍♂️ [Cektrend.com](https://cektrend.com/). Beside's programming, I enjoy sporting and movie watching.
 
   <img align="right" alt="GIF" src="https://github.com/saipulmuiz/saipulmuiz/blob/main/code.gif?raw=true" width="500" height="320" />
   
